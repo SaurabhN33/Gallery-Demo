@@ -1,4 +1,4 @@
-package com.example.gallerydemo;
+package com.example.gallerydemo.Images;
 
 import static android.Manifest.permission.READ_EXTERNAL_STORAGE;
 
@@ -13,6 +13,8 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.gallerydemo.R;
 
 import java.util.ArrayList;
 
